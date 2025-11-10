@@ -13,7 +13,10 @@ profiles:
     image: Headshot_1_v2-1396x1536.jpg
     content: about_dr_miller.md
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info: >
+      <p>Gallogly Hall 417</p>
+      <p>173 Felgar St.</p>
+      <p>Norman, OK 73019</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md

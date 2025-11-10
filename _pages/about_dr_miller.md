@@ -1,7 +1,6 @@
-
 # David Miller, PhD
-Assistant Professor of Neuroengineering
-Stephenson School of Biomedical Engineering
+Assistant Professor of Neuroengineering <br>
+Stephenson School of Biomedical Engineering <br>
 
 ## EDUCATION HISTORY
 
