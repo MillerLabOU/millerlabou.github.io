@@ -1,9 +1,9 @@
 
-**David Miller, PhD**
+# David Miller, PhD
 Assistant Professor of Neuroengineering
 Stephenson School of Biomedical Engineering
 
-# EDUCATION HISTORY
+## EDUCATION HISTORY
 
 * Postdoctoral Fellowship, Massachusetts General Hospital and Harvard Medical School
 * Postdoctoral Fellowship, The University of Texas at Austin
