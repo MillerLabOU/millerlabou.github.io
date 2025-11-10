@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "TranslationalNeuroimagingLab/millerlab.github.io",
+    "data-repo": "TranslationalNeuroimagingLab/translationalneuroimaginglab.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
