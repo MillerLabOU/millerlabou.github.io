@@ -34,7 +34,7 @@ profiles:
     more_info:
   - align: right
     image: Anitah_2.jpeg
-    content: about_anitah_numatebi.md
+    content: about_anitah_namutebi.md
     image_circular: false # crops the image to make it circular
     more_info:
   - align: left
