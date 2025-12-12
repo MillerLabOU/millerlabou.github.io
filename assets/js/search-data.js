@@ -422,16 +422,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-dr-paul-calle-joined-the-lab-as-postdoctoral-fellow-to-develop-machine-learning-models-for-neurosurgery-segmentation",
+          title: 'Dr. Paul Calle joined the lab as postdoctoral fellow to develop machine learning...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-ebby-passed-his-general-exam-he-is-officially-a-phd-candidate",
+          title: 'Ebby passed his general exam! He is officially a PhD Candidate!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-the-lab-received-a-joint-grant-with-xironetic-from-ok-biostart-to-develop-advanced-neuronavigation-platforms",
+          title: 'The lab received a joint grant with Xironetic from OK BioStart to develop...',
           description: "",
           section: "News",},{id: "projects-real-time-assessment-of-blood-flow-imaging-during-neurosurgery",
           title: 'Real-time assessment of blood flow imaging during neurosurgery',
