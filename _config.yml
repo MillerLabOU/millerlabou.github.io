@@ -192,6 +192,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
+  - _posts/
 keep_files:
   - CNAME
   - .nojekyll
@@ -264,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Miller]
+  first_name: [David, David R., D.R., DR]
 
   style: apa
   locale: en
