@@ -194,6 +194,8 @@ exclude:
   - _pages/teaching.md
   - _pages/cv.md
   - _pages/repositories.md
+  - _pages/books.md
+  - _pages/dropdown.md
 
 keep_files:
   - CNAME
