@@ -33,7 +33,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: right
-    image: 1000103294.jpg
+    image: 1000103294_square.jpg
     content: about_ebby_raj.md
     image_circular: false # crops the image to make it circular
     more_info:
