@@ -6,6 +6,3 @@ related_posts: false
 ---
 
 David and Ebby both presented talks at SPIE Photonics West 2026!
-<p align="center">
-  <img src="./SPIE_PW_2026.jpg" width="400">
-</p>
