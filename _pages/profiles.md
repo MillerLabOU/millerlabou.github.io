@@ -52,6 +52,13 @@ profiles:
     content: about_jacqueline_stovall.md
     image_circular: false # crops the image to make it circular
     more_info:
+  - align: right
+    image: Modeste_professional headshot.JPG
+    content: about_modeste_gihozo_rukundo.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+
 
 alumni:
   - align: right
