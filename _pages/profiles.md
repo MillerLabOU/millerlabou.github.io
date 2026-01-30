@@ -57,7 +57,11 @@ profiles:
     content: about_modeste_gihozo_rukundo.md
     image_circular: false # crops the image to make it circular
     more_info:
-
+  - align: left
+    image: IMG_7660_Connor.jpeg
+    content: about_connor_d_engle.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 
 
 alumni:
