@@ -62,6 +62,11 @@ profiles:
     content: about_connor_d_engle.md
     image_circular: false # crops the image to make it circular
     more_info:
+- align: right
+    image: Alan_MillerLabWebsitePhoto.png
+    content: about_alan_cruz.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 
 
 alumni:
