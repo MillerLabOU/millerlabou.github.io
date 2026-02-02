@@ -63,7 +63,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
 - align: right
-    image: Alan_MillerLabWebsitePhoto.png
+    image: Alan_MillerLabWebsitePhoto.jpg
     content: about_alan_cruz.md
     image_circular: false # crops the image to make it circular
     more_info:
