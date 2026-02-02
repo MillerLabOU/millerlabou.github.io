@@ -62,7 +62,7 @@ profiles:
     content: about_connor_d_engle.md
     image_circular: false # crops the image to make it circular
     more_info:
-- align: right
+  - align: right
     image: Alan_MillerLabWebsitePhoto.jpg
     content: about_alan_cruz.md
     image_circular: false # crops the image to make it circular
