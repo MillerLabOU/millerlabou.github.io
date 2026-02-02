@@ -68,7 +68,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
 
-
 alumni:
   - align: right
     image: Avery.jpg
