@@ -67,7 +67,11 @@ profiles:
     content: about_alan_cruz.md
     image_circular: false # crops the image to make it circular
     more_info:
-
+  - align: left
+    image: IMG_4146.jpeg
+    content: about_temalangeni_dlamini.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 alumni:
   - align: right
     image: Avery.jpg
