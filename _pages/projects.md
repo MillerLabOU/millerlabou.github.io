@@ -16,6 +16,8 @@ We also collaborate closely with the Stephenson Cancer Center (SCC) at OU HSC. T
 Funding sources include: <br>
 * National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
 * OK BioStart for "Clinical Translational Research in Augmented Reality for Neuronavigation" (PIs: Miller / Potts)
+* American Cancer Society (ACS) Institutional Research Grant Pilot for "Intraoperative Surgical Guidance During Resection of Brain Tumors" (PI: Miller)
+* Presbyterian Health Foundation (PHF) Technology Advancement Grant (TAG) for "Seeing Deeper: Three-photon microscopy for deep-tissue mouse brain imaging" (PIs: Csiszar / Miller)
 
 
 <!-- pages/projects.md -->
