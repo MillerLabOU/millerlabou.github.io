@@ -14,6 +14,7 @@ We collaborate closely with neurosurgeons Dr. Christopher Graffeo and Dr. Andrew
 We also collaborate closely with the Stephenson Cancer Center (SCC) at OU HSC. The SCC is a National Cancer Institute designated cancer center and is the nation’s No. 1 cancer center for patient clinical trial accrual.
 
 Funding sources include: <br>
+*National Institutes of Health (NIH) Centers of Biomedical Research Excellence (COBRE) for “Neuroimaging-guided Immunotherapy for Glioblastoma.” (PI: Miller)
 * National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
 * OK BioStart for "Clinical Translational Research in Augmented Reality for Neuronavigation" (PIs: Miller / Potts)
 * American Cancer Society (ACS) Institutional Research Grant Pilot for "Intraoperative Surgical Guidance During Resection of Brain Tumors" (PI: Miller)
