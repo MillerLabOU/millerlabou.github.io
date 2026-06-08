@@ -22,14 +22,14 @@ profiles:
     content: about_jeff_potts.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: right 
-    image: barbara_photo.jpeg
-    content: about_barbara_buccilli.md
+  - align: right
+    image: 1699555709777.jpg
+    content: about_paul_calle.md
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: left 
-    image: 1699555709777.jpg
-    content: about_paul_calle.md
+    image: barbara_photo.jpeg
+    content: about_barbara_buccilli.md
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: right
