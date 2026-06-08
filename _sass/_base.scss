@@ -211,6 +211,11 @@ ul.task-list input[type="checkbox"] {
   margin-left: 1rem;
 }
 
+.profile.float-right ~ div ul,
+.profile.float-right ~ div ol {
+  list-style-position: inside;
+}
+
 .profile.float-left {
   margin-right: 1rem;
 }
