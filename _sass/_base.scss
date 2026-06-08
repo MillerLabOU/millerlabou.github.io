@@ -215,12 +215,12 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
-.profile.float-left ~ div {
+.profile.float-left + div {
   overflow: hidden;
 }
 
-.profile.float-left ~ div ul,
-.profile.float-left ~ div ol {
+.profile.float-left + div ul,
+.profile.float-left + div ol {
   list-style-position: inside;
 }
 
