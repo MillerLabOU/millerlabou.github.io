@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Miller Lab received an American Cancer Society (ACS) Institutional Research Grant (IRG) through the Stephenson Cancer Center
+The Miller Lab received an American Cancer Society (ACS) Institutional Research Grant (IRG) through the Stephenson Cancer Center to evaluate if continuous blood flow imaging during neurosurgery can reveal perfusion abnormalities and guide postoperative therapy.
