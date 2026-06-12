@@ -67,7 +67,7 @@ ninja.data = [{
           section: "News",},{id: "news-tema-was-accepted-to-the-ou-honors-college-spring-2026-undergraduate-research-opportunities-program-which-is-funding-her-project-in-the-miller-lab-on-developing-models-for-quantifying-cerebral-blood-flow",
           title: 'Tema was accepted to the OU Honors College Spring 2026 Undergraduate Research Opportunities...',
           description: "",
-          section: "News",},{id: "news-the-miller-lab-received-an-american-cancer-society-acs-institutional-research-grant-irg-through-the-stephenson-cancer-center",
+          section: "News",},{id: "news-the-miller-lab-received-an-american-cancer-society-acs-institutional-research-grant-irg-through-the-stephenson-cancer-center-to-evaluate-if-continuous-blood-flow-imaging-during-neurosurgery-can-reveal-perfusion-abnormalities-and-guide-postoperative-therapy",
           title: 'The Miller Lab received an American Cancer Society (ACS) Institutional Research Grant (IRG)...',
           description: "",
           section: "News",},{id: "news-congratulations-to-the-miller-lab-undergraduate-seniors-on-their-graduation-anitah-namutebi-brayden-girard-modeste-rukundo-connor-d-engle-and-tema-dlamini",
