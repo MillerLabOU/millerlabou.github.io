@@ -218,12 +218,12 @@ ul.task-list input[type="checkbox"] {
 .profile.float-right ~ div ul,
 .profile.float-right ~ div ol {
   list-style-position: outside;
-  padding-left: 1rem;
+  padding-left: 1.25rem;
 }
 .profile.float-left ~ div ul,
 .profile.float-left ~ div ol {
   list-style-position: inside;
-  margin-left: -1rem;
+  padding-left: 0;
 }
 
 @media (min-width: 576px) {
