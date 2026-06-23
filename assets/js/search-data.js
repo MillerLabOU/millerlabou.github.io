@@ -79,7 +79,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-excited-to-welcome-the-newest-member-of-the-miller-lab-dr-barbara-buccilli-who-will-be-leading-a-clinical-study-on-laser-speckle-contrast-imaging-lsci-for-brain-tumor-surgery-this-work-has-the-potential-to-improve-surgical-precision-and-personalize-cancer-care-for-patients-across-oklahoma-and-beyond",
           title: 'We are excited to welcome the newest member of The Miller Lab, Dr....',
           description: "",
-          section: "News",},{id: "projects-real-time-assessment-of-blood-flow-imaging-during-neurosurgery",
+          section: "News",},{id: "news-lab-outing-to-see-toy-story-5",
+          title: 'Lab Outing to See Toy Story 5',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
+            },},{id: "projects-real-time-assessment-of-blood-flow-imaging-during-neurosurgery",
           title: 'Real-time assessment of blood flow imaging during neurosurgery',
           description: "",
           section: "Projects",handler: () => {
