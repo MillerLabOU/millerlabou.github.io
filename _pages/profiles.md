@@ -31,48 +31,52 @@ profiles:
     image: barbara_photo.jpeg
     content: about_barbara_buccilli.md
     image_circular: false # crops the image to make it circular
+  - align: right 
+    image: sampurna.jpeg
+    content: about_sampurna.md
+    image_circular: false # crops the image to make it circular
     more_info: 
-  - align: right
+  - align: left
     image: Diogo_photo.jpg
     content: about_diogo_cordeiro.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: left
+  - align: right
     image: 1000103294_square.jpg
     content: about_ebby_raj.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: Anitah_2.jpeg
     content: about_anitah_namutebi.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: 7_7_25-scaled.jpg
     content: about_brayden_girard.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: DSC0948-scaled.jpeg
     content: about_jacqueline_stovall.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: Modeste_professional headshot.JPG
     content: about_modeste_gihozo_rukundo.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: IMG_7660_Connor.jpeg
     content: about_connor_d_engle.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: Alan_MillerLabWebsitePhoto.jpg
     content: about_alan_cruz.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: IMG_4146.jpeg
     content: about_temalangeni_dlamini.md
     image_circular: false # crops the image to make it circular
