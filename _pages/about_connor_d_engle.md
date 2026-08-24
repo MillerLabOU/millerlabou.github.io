@@ -1,4 +1,4 @@
 # Connor D. Engle
 
-Undergraduate Researcher <br>
+Former Undergraduate Researcher <br>
 Biomedical Engineering
