@@ -1,4 +1,4 @@
 # Jacqueline Stovall
-Current: Medtronic
+Current: Medtronic <br>
 Former Undergraduate Researcher <br>
 Biomedical Engineering
