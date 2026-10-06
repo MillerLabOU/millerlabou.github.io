@@ -42,7 +42,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
   - align: right
-    image: Diogo_photo.jpg
+    image: diogo_2.jpg
     content: about_diogo_cordeiro.md
     image_circular: false # crops the image to make it circular
     more_info: 
