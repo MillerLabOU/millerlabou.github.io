@@ -84,6 +84,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12/";
+            },},{id: "news-congrats-to-barbara-for-receiving-the-best-translational-poster-presentation-award-at-the-university-of-oklahoma-neuroscience-symposium",
+          title: 'Congrats to Barbara for receiving the Best Translational Poster Presentation Award at the...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13/";
             },},{id: "projects-real-time-assessment-of-blood-flow-imaging-during-neurosurgery",
           title: 'Real-time assessment of blood flow imaging during neurosurgery',
           description: "",
